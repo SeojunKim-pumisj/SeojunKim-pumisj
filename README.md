@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=pumisj&show_icons=true&hide_border=true)](https://github.com/pumisj)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pumisj&layout=compact)](https://github.com/pumisj)
+[![github stats](https://github-readme-stats.vercel.app/api?username=pumisj&show_icons=true&hide_border=true)](https://github.com/SeojunKim-pumisj)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pumisj&layout=compact)](https://github.com/SeojunKim-pumisj)
