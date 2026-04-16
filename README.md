@@ -29,7 +29,6 @@
 
 - **Gachon University SPLab:** 시스템 보안 학부연구생 (Vulnerability Discovery)
 - **UMC 10th:** Spring Boot 챌린저 활동 중
-- **Personal Research:** AFL++을 이용한 오픈소스 취약점 분석 및 CVE 연구
 
 ---
 
