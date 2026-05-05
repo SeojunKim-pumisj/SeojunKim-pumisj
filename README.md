@@ -1,6 +1,6 @@
 # Hi there, I'm Seojun Kim (김서준) 👋
 
-> **"실패를 분석하며 성장의 동력을 얻는, 집요한 백엔드 개발자입니다."**
+> **"실패를 분석하며 성장의 동력을 얻는, 집요한 개발자입니다."**
 >
 > 단순히 기능을 구현하는 것에 그치지 않고, '왜 안 되는지'를 기어코 찾아내어 시스템의 근본적인 원인을 이해하는 과정을 즐깁니다.
 
@@ -27,11 +27,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 *Home Lab: VPN, NAS 및 Docker 기반 서버 인프라 운영 (네트워크 구조 및 컨테이너화 이해)*
 
-**Security & Research** 
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
-*Vulnerability Research: Fuzzing (AFL++), Symbolic Execution* *Environment: Binary Analysis, GDB-GEF*
-
 **Frontend** 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -42,7 +37,7 @@
 
 ### 🔭 Currently Working On
 
-* **Gachon University SPLab:** 시스템 보안 학부연구생 (Vulnerability Discovery & Symbolic Execution 연구)
+* **Gachon University SPLab:** 보안 학부연구생
 * **UMC 10th:** Spring Boot 챌린저 활동 중
 
 ---
