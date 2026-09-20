@@ -38,7 +38,7 @@
 ### 🔭 Currently Working On
 
 * **Gachon University SPLab:** 보안 학부연구생
-* **UMC 10th:** Spring Boot 챌린저 활동 중
+* **UMC 10th:** Spring Boot 챌린저
 
 ---
 
