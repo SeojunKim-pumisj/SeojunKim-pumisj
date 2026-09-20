@@ -38,12 +38,11 @@
 ### 🔭 Currently Working On
 
 * **Gachon University SPLab:** 보안 학부연구생
-* **UMC 10th:** Spring Boot 챌린저
 
 ---
 
 ### 📁 Representative Projects
-
+* **UMC 10th (2026.03)**: Spring Boot 챌린저 동아리 활동
 * **ISeeU (2026.02)**: 가천대 간호대 중환자실(ICU) 실습 도우미 서비스 백엔드 개발
     * `Spring Boot`, `OpenAI API`, `RAG`, `AWS S3`
     * 실습 로그 생성 및 PDF 리포트 자동화 기능 구현
